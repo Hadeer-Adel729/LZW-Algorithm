@@ -1,2 +1,1 @@
-# LZW_Compression
-My implementation for LZW compression algorithm.
+LZW compression works by reading a sequence of symbols, grouping the symbols into strings, and converting the strings into codes. Because the codes take up less space than the strings they replace, we get compression.
